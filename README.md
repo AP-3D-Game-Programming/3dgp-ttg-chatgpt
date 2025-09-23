@@ -3,7 +3,6 @@
 - 
 - 
 
-﻿
 # Naam van het spel: 
 
 ## Ontwikkelaars
@@ -32,7 +31,7 @@ Leeftijd: 10+
 
 ### Bord en Tiles:
 -	1 Vulkaan tile (middelste tile, groter)
--	30 Hexagon tiles:
+-	60 Hexagon tiles:
     -	Beach / Strand (8) – 2 Hout, 1 Touw
     - Jungle (7) – 1 Touw, 1 Hout
     -	Scrapyard / Schrootveld (5) – 2 Metaal
