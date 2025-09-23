@@ -87,4 +87,4 @@ Elke speler heeft 2 acties per beurt, zoals:
 Afbeeldingen en foto's van: - het speelbord - een 'normale' setup aan het begin van het spel - een voorbeeld van een speler die gewonnen is
 
 
-
+TESTEN VAN SEM
