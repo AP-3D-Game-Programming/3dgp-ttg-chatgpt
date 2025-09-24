@@ -25,7 +25,7 @@ De kaarten vertellen alles wat je mag doen: dit houdt alles in van gatheren, ver
 ##### 3-5 spelers
 
 ### Alle Tiles♥
--	#### 60 Hexagon tiles:
+-	#### 66 Hexagon tiles:
     -   ##### WetBiome(1 hout):
         -	Beach / Strand (16) – 1 Hout + 1 Touw
         -   Jungle (14) – 2 Hout
