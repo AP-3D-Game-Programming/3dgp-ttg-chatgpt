@@ -77,10 +77,12 @@ De kaarten vertellen alles wat je mag doen: dit houdt alles in van gatheren, ver
     -   Super gainer: kost 2 hout + 1 metaal - Krijg een extra resource van al je gain kaarten deze beurt
     -   Leacher: kost 1 metaal + 1 touw - Verkrijg dezelfde resources als wat de andere spelers weten te bemachtigen aan resources tot en met het begin van je volgende beurt (persistent effect)
     -   Flood: kost 2 hout - Voor alle spelers behalve de speler die deze kaart activeert; alle WetBiome tiles kosten meteen 2 hout om op te staan en kosten 2 hout om naartoe te bewegen tot en met het begin van je volgende beurt (persistent effect)
-    -   SuperDry: kost 2 metaal - Voor alle spelers behalve de speler die deze kaart activeert; alle DryBiome tiles zijn nietmeer toegankelijk om op te staan, staat er een speler momenteel op een DryBiome dan verplaatst die zich naar de dichtstbijzijnde WetBiome of DangerBiome (persistent effect)
+    -   SuperDry: kost 2 metaal - Voor alle spelers behalve de speler die deze kaart activeert; alle DryBiome tiles zijn nietmeer toegankelijk om op te staan, staat er een speler momenteel op een DryBiome dan verplaatst die zich naar de dichtstbijzijnde WetBiome of DangerBiome tot en met het begin van je volgende beurt (persistent effect)
     -   Take 2: kost 2 hout + 2 metaal - trek 2 extra basiskaarten
     -   Card swap: kost 1 hout + 1 metaal + 1 touw - wissel 2 kaarten uit je hand met 2 willekeurige kaarten uit een andere speler hun hand
 
+- ###### Persistent effect uitleg:
+    -   Een persistent effect kaart speel je open voor je uit voor alle spelers om te zien en leg je pas af wanneer de beschreven tijd voorbij is gegaan of als de activatie vereisten zijn gebeurd zoals op de kaart is vermeld.
 
 -   ### FAQ:
     -   Kan een opengedraaide tile weer gesloten gelegd worden?
@@ -89,7 +91,7 @@ De kaarten vertellen alles wat je mag doen: dit houdt alles in van gatheren, ver
             Nee, je move kaart is opgebruikt en je moet vanaf de tile waar je opstond voordat je de pilaar onthulde verder gaan.
     -   Is een valkuil toegankelijk?
             Ja, je mag altijd op een valkuil gaan staan, je zal wel altijd een kaart verliezen.
-    -   Krijg resources als ik naar een opengedraaide tile beweeg?
+    -   Krijg ik resources als ik naar een opengedraaide tile beweeg?
             Nee, je krijgt eenmalig resources wanneer je je naar een gesloten tile verplaatst en deze tile omdraait, wanneer een tile opengedraaid is, kun je daar alleen nog maar resources van krijgen doormiddel van gatheren of exploren.
     -   Als ik een opengedraaide tile exploreer, krijg ik daar nog steeds een resource van?
             Ja, je krijgt altijd een resource van te exploreren.
