@@ -173,3 +173,30 @@ De kaarten vertellen alles wat je mag doen: dit houdt alles in van gatheren, ver
 -   Kan ik onbereikbare tiles exploreren? Ja.
 -   Kan ik de tile onder mij exploreren? Nee, alleen aangrenzende tiles.
 -   Hoeveel resources bij 2 onderdelen? Aan beurt einde: 3 kaarten + 3 resources.
+
+
+origineel
+
+de flow was raar
+
+gebrek aan clraity
+
+clarity: Voorbereiding was brakka
+
+De kost op de kaarten zelf
+
+Veel opzoeken
+
+Betere hierarchie in de uitleg structuur
+
+te weinig tijd
+
+De winkelkaarten waren niet echt aanwezig, maak ze sterker, geef ze een kleurtje
+
+Uitleg concreter, duidelijkere stappen
+
+Het was wel een leuk idee
+
+goedkopere boot, veel goedkoper
+
+resource krijgen op een zichtbare tile???
