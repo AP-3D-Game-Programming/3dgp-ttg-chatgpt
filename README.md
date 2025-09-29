@@ -1,9 +1,4 @@
-# Belangrijke wijzigingen
-- 
-- 
-- 
-
-# Naam van het spel: 
+# Naam van het spel: Eiland Ontsnapping
 
 ## Ontwikkelaars
 
@@ -11,80 +6,100 @@ Yorgi De Schrijver, Sem Spruyt, Luca lobbestael en Alexander Wouter Winkel
 
 ## Korte samenvatting
 
-### Doel van het spel:
-
-Spelers moeten van een gevaarlijk eiland ontsnappen door een vlot te bouwen en de zee te bereiken voordat de vulkaan uitbarst. Het eiland bestaat uit hexagonale tiles met verschillende resources en uitdagingen. Spelers moeten verzamelen, plannen en tactische keuzes maken om te winnen.
+Jullie zijn gestrande avonturiers op een mysterieus eiland. De enige manier om te ontsnappen is een boot te bouwen met hout, metaal en touw. Door middel van kaarten ontdek je tiles, verzamel je resources, koop je onderdelen en probeer je elkaar te saboteren. Wie als eerste zijn boot voltooit en het eiland verlaat, wint!
 
 Aantal spelers: 2–5  
 Speelduur: 10–15 minuten  
 Leeftijd: 10+  
 
-### Hoofdmechanics:
-
--	Verplaatsen over hexagonale tiles
--	Verzamelen van Hout, Metaal en Touw
--	Bouwen en upgraden van een vlot
--	Item-kaarten gebruiken voor speciale voordelen
--	Vulkaan die spanning en urgentie toevoegt
-
 ## Materiaal
 
-### Bord en Tiles:
--	1 Vulkaan tile (middelste tile, groter)
--	60 Hexagon tiles:
-    -	Beach / Strand (8) – 2 Hout, 1 Touw
-    - Jungle (7) – 1 Touw, 1 Hout
-    -	Scrapyard / Schrootveld (5) – 2 Metaal
-    -	Lagoon (4) – 1 Metaal + 1 Hout, Launch-locatie
-    -	Ruins / Ruïnes (3) – Trek 1 Item-kaart
-    -	Storm / Stormtile (2) – Verlies 1 resource
-    -	Trader / Handelspost (1) – Ruil 3:1 (of 2:1 met kaart)
-### Resources:
--	Hout, Metaal, Touw tokens
+### Tiles (66 stuks)
+- Wet Biome
+    - Strand (16) – 1 hout + 1 touw
+    - Jungle (14) – 2 hout
+    - Storm (4) – verlies 1 resource
+- Dry Biome
+    - Schrootveld (10) – 2 metaal
+    - Outpost/Kamp (8) – 1 hout + 1 metaal
+    - Ruïnes (6) – trek 1 kaart
+- Danger Biome
+    - Pillar (4) – onbetreedbaar
+    - Valkuil (4) – verlies 1 kaart bij betreden
 
-### Item-kaarten:
--	Machete, Fishing Net, Hammer, Map Fragment, Storm Shield (max. 2 per speler)
+### Kaarten
 
-**Vlot markers** voor elke speler  
-**Vulkaantracker** – toont het aantal rondes tot uitbarsting
+- **Basisdeck**: Move, Gather, Explore, Gain, Open Move, Draw 2/Discard 2, Move → Gather
+- **Shopdeck**: speciale kaarten om te kopen (Move 3, Adjacent Explore, Steal Gather, Super Gainer, Leacher, Flood, SuperDry, Take 2, Card Swap)
 
+### Tokens
+
+- Resources: hout, metaal, touw
+- Bootonderdelen
+
+### Spelersets
+
+- 1 pion
+- 5 startkaarten
+- 3 startresources (1 hout, 1 metaal, 1 touw)
 
 ## Spelgids
+### Setup
 
-### Opzetten van het spel:
-1.	Plaats de Vulkaan tile in het midden van de tafel.
-2.	Schud de overige tiles en leg ze om de vulkaan heen om het eiland te vormen, face-down.
-3.	Elke speler kiest een startpositie op een strand tile aan de rand van het eiland.
-4.	Leg de resource tokens en item-kaarten klaar.
+1. Leg 1 Strandtile open in het midden → startpunt.
+2. Schud alle andere tiles en leg ze gesloten rond het bord (of gebruik een trekstapel bij verkenning).
+3. Elke speler plaatst zijn pion op de starttile.
+4. Elke speler ontvangt:
+    - 5 startkaarten (hand)
+    - 1 hout, 1 metaal, 1 touw
+5. Schud de shopdeck en leg de bovenste 3 kaarten open.
 
-### Spelbeurt:
-Elke speler heeft 2 acties per beurt, zoals:
-1.	Verplaatsen naar een aangrenzende tile (1 tile per actie)
-2.	Verzamelen van resources op de huidige tile
-3.	Vlot bouwen/upgraden (op Lagoon tile)
-4.	Ruilen bij Trader/Handelspost
-5.	Item-kaart gebruiken
+### Beurtverloop
 
-### Resources en vlot bouwen:
+Elke beurt verloopt in 3 fases:
 
--	Basis vlot: 3 Hout + 2 Touw + 2 Metaal
--	Upgrades:
-    - Sneller bewegen (+1 tile per beurt)
-    - Stormbestendig (+1 Metaal + Storm Shield)
+1. **Acties uitvoeren**
+    - Speel kaarten uit je hand om acties uit te voeren.
+    - Elke kaart beschrijft exact wat je mag doen.
+    - Je mag meerdere kaarten spelen in je beurt.
+    - Geen kaarten = geen acties.
+2. **Resources gebruiken**
+    - Shopkaarten kopen → betaal de prijs, leg in je aflegstapel.
+    - Bootonderdeel kopen → betaal 10 resources (evenredig: hout + metaal + touw).
+        - Voorbeeld: 10 hout + 10 metaal + 10 touw = 1 onderdeel.
+3. **Beurt afsluiten**
+    - Trek 1 kaart van je deck.
+    - Neem 1 resource naar keuze.
+    - Voor elk bootonderdeel dat je bezit: trek +1 kaart en neem +1 extra resource.
+    - Vul de shop weer aan tot 3 kaarten.
 
-### Vulkaan:
--	Iedere ronde +1 op de tracker
--	Effecten:
-    - Lichte rook: Storm tiles verliezen extra resources
-    - Uitbarsting: Tiles naast vulkaan worden lava (onbruikbaar)
+### Tile regels
 
-### Winconditie:
--	Speler ontsnapt door met een compleet vlot op Lagoon te staan
--	Of: iedereen faalt als vulkaan volledig uitbarst en Lagoon tiles geblokkeerd zijn
+Gesloten tile = omgedraaid, onbekend.
+Open tile = ontdekt, blijft open.
+Stap naar gesloten tile = draai open + ontvang resources.
+Obstakel = niet betreedbaar.
+Valkuil = wel betreedbaar, maar verlies 1 kaart.
+Storm = verlies 1 resource bij betreden.
 
+### Bootonderdelen
 
-## Bijlages
-Afbeeldingen en foto's van: - het speelbord - een 'normale' setup aan het begin van het spel - een voorbeeld van een speler die gewonnen is
+- Kosten: 10 resources (evenredig verdeeld hout, metaal, touw).
+- Elk onderdeel geeft +1 kaart en +1 resource aan het einde van je beurt.
+- Je hebt 3 onderdelen nodig om te ontsnappen.
 
+### Winconditie
 
-TESTEN VAN SEM
+- Bouw 3 bootonderdelen (30 resources totaal).
+- Bereik de rand van het eiland.
+- Gebruik 1 Move om het eiland te verlaten.
+- De eerste speler die ontsnapt, wint!
+
+## Revisies
+
+- Toevoeging van biomes (Wet, Dry, Danger) voor meer variatie in tiles.
+- Invoering van een shopdeck met speciale kaarten om interactie en sabotage te versterken.
+- Bootonderdelen vereisen nu een evenredige mix van resources (hout/metaal/touw) i.p.v. vrije keuze.
+- Beurt-einde beloningen (extra kaart + resource per onderdeel) toegevoegd om progressie voelbaar te maken.
+- Gevaren (Pillars, Valkuilen, Storms) toegevoegd om tactische keuzes te verdiepen.
+
