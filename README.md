@@ -15,22 +15,19 @@ Leeftijd: 10+
 ## Materiaal
 
 ### Tiles (66 stuks)
-- Wet Biome
-    - Strand (16) – 1 hout + 1 touw
-    - Jungle (14) – 2 hout
-    - Storm (4) – verlies 1 resource
-- Dry Biome
-    - Schrootveld (10) – 2 metaal
-    - Outpost/Kamp (8) – 1 hout + 1 metaal
-    - Ruïnes (6) – trek 1 kaart
-- Danger Biome
-    - Pillar (4) – onbetreedbaar
-    - Valkuil (4) – verlies 1 kaart bij betreden
+- Strand (16) – 1 hout + 1 touw
+- Jungle (14) – 2 hout
+- Storm (4) – verlies 1 resource
+- Schrootveld (10) – 2 metaal
+- Outpost/Kamp (8) – 1 hout + 1 metaal
+- Ruïnes (6) – trek 1 kaart
+- Pillar (4) – onbetreedbaar
+- Valkuil (4) – verlies 1 kaart bij betreden
 
 ### Kaarten
 
 - **Basisdeck**: Move, Gather, Explore, Gain, Open Move, Draw 2/Discard 2, Move → Gather
-- **Shopdeck**: speciale kaarten om te kopen (Move 3, Adjacent Explore, Steal Gather, Super Gainer, Leacher, Flood, SuperDry, Take 2, Card Swap)
+- **Shopdeck**: speciale kaarten om te kopen (Move 3, Adjacent Explore, Steal Gather, Super Gainer, Leacher, Take 2, Card Swap)
 
 ### Tokens
 
@@ -41,7 +38,7 @@ Leeftijd: 10+
 
 - 1 pion
 - 5 startkaarten
-- 3 startresources (1 hout, 1 metaal, 1 touw)
+- 3 startresources (2 hout, 2 metaal, 2 touw)
 
 ## Spelgids
 ### Setup
@@ -51,7 +48,7 @@ Leeftijd: 10+
 3. Elke speler plaatst zijn pion op de starttile.
 4. Elke speler ontvangt:
     - 5 startkaarten (hand)
-    - 1 hout, 1 metaal, 1 touw
+    - 2 hout, 2 metaal, 2 touw
 5. Schud de shopdeck en leg de bovenste 3 kaarten open.
 
 ### Beurtverloop
@@ -65,13 +62,13 @@ Elke beurt verloopt in 3 fases:
     - Geen kaarten = geen acties.
 2. **Resources gebruiken**
     - Shopkaarten kopen → betaal de prijs, leg in je aflegstapel.
-    - Bootonderdeel kopen → betaal 10 resources (evenredig: hout + metaal + touw).
-        - Voorbeeld: 10 hout + 10 metaal + 10 touw = 1 onderdeel.
+    - Bootonderdeel kopen → betaal 7 van 1 resource
+        - Voorbeeld: 7 hout, 7 touw of 7 metaal = 1 onderdeel.
 3. **Beurt afsluiten**
-    - Trek 1 kaart van je deck.
-    - Neem 1 resource naar keuze.
-    - Voor elk bootonderdeel dat je bezit: trek +1 kaart en neem +1 extra resource.
-    - Vul de shop weer aan tot 3 kaarten.
+    - Trek 2 kaart van je deck.
+    - Voor elk bootonderdeel dat je bezit: trek +1 kaart.
+4. **Extra:**
+    - Indien de shop volledig uitverkocht is, vul aan met nieuwe kaarten.
 
 ### Tile regels
 
@@ -84,8 +81,8 @@ Storm = verlies 1 resource bij betreden.
 
 ### Bootonderdelen
 
-- Kosten: 10 resources (evenredig verdeeld hout, metaal, touw).
-- Elk onderdeel geeft +1 kaart en +1 resource aan het einde van je beurt.
+- Kosten: 7 van 1 resource per.
+- Elk onderdeel geeft +1 kaart aan het einde van je beurt.
 - Je hebt 3 onderdelen nodig om te ontsnappen.
 
 ### Winconditie
@@ -102,4 +99,5 @@ Storm = verlies 1 resource bij betreden.
 - Bootonderdelen vereisen nu een evenredige mix van resources (hout/metaal/touw) i.p.v. vrije keuze.
 - Beurt-einde beloningen (extra kaart + resource per onderdeel) toegevoegd om progressie voelbaar te maken.
 - Gevaren (Pillars, Valkuilen, Storms) toegevoegd om tactische keuzes te verdiepen.
+
 
