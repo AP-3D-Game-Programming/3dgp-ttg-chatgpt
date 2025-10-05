@@ -2,7 +2,7 @@
 
 ## Ontwikkelaars
 
-Yorgi De Schrijver, Sem Spruyt, Luca lobbestael en Alexander Wouter Winkel
+Yorgi De Schrijver, Sem Spruyt, Luca lobbestael, Senne de Waal en Alexander Wouter Winkel
 
 ## Korte samenvatting
 
